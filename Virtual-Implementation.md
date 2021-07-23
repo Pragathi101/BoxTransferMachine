@@ -1,4 +1,4 @@
 
-##Circuit Diagram
+## Circuit Diagram
 
-###Subsystem 1: Box sensing unit
+### Subsystem 1: Box sensing unit
